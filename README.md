@@ -16,47 +16,6 @@ The Payroll Management System is a C++ application designed to handle the payrol
 - **File Handling**:
   - Save and Load employee records to and from binary files.
 
-## Getting Started
-
-### Prerequisites
-
-To build and run this project, you need:
-
-- A C++ compiler (GCC).
-- The C++ Standard Library.
-- The `conio.h` header file for password input (commonly available on Windows; alternative methods may be needed for other platforms).
-
-### Installation
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/PayrollManagementSystem.git
-   ```
-
-2. **Navigate to the Project Directory**
-
-   ```bash
-   cd PayrollManagementSystem
-   ```
-
-3. **Compile the Code**
-
-   Use your C++ compiler to compile the `main.cpp` file along with the necessary header files.
-
-   For example, using `g++`:
-
-   ```bash
-   g++ -o PayrollManagementSystem main.cpp FullTimeEmployee.cpp PartTimeEmployee.cpp PayrollSystem.cpp
-   ```
-
-4. **Run the Application**
-
-   Execute the compiled binary:
-
-   ```bash
-   ./PayrollManagementSystem
-   ```
 
 ## Usage
 
