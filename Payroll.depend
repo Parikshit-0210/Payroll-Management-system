@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1713346046 source:e:\sem2\c++\project\payroll\main.cpp
+	<iostream>
+	<fstream>
+	<limits>
+	<stdio.h>
+	<iomanip>
+	<string.h>
+	<conio.h>
+	<stdexcept>
+	"FullTimeEmployee.h"
+	"PartTimeEmployee.h"
+	"PayrollSystem.h"
+
+1713098712 source:e:\sem2\c++\project\payroll\fulltimeemployee.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"FullTimeEmployee.h"
+
+1713098712 e:\sem2\c++\project\payroll\fulltimeemployee.h
+	"Employee.h"
+	<iostream>
+	<string.h>
+	<fstream>
+
+1713097132 e:\sem2\c++\project\payroll\employee.h
+	<iostream>
+	<string.h>
+	<fstream>
+
+1713098712 e:\sem2\c++\project\payroll\parttimeemployee.h
+	<iostream>
+	<string.h>
+	<fstream>
+	"Employee.h"
+
+1713097430 e:\sem2\c++\project\payroll\payrollsystem.h
+	<fstream>
+
+1713098712 source:e:\sem2\c++\project\payroll\parttimeemployee.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"PartTimeEmployee.h"
+
+1713333695 source:e:\sem2\c++\project\payroll\payrollsystem.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"FullTimeEmployee.h"
+	"PartTimeEmployee.h"
+	"PayrollSystem.h"
+
